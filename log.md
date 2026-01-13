@@ -7,8 +7,8 @@
 
 ## Stats
 - Start date: 2026-01-12
-- Current streak: 1
-- Total solved: 1 (E:1 / M:0 / H:0)
+- Current streak: 2
+- Total solved: 2 (E:2 / M:0 / H:0)
 - Revisited: 0
 
 ---
@@ -18,6 +18,7 @@
 | Date | LC ID | Title | Difficulty | Lang | Time Spent | Result | Topics | Takeaways (1-liner) | Revisit |
 |---|---:|---|---|---|---:|---|---|---|---|
 | 2026-01-12 | 1929 | Concatenation of Array  | Easy | Python | 1 min | `AC` | `Array` | 리스트 끼리의 + 연산은 새로운 리스트를 만든다. | N |
+| 2026-01-13 | 1470 | Shuffle the Array  | Easy | Python | 1 min | `AC` | `Array` | 리스트 슬라이싱은 새로운 메모리를 메모리에 할당한다. | N |
 |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |
 
