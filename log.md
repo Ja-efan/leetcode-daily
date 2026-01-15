@@ -7,8 +7,8 @@
 
 ## Stats
 - Start date: 2026-01-12
-- Current streak: 3
-- Total solved: 3 (E:3 / M:0 / H:0)
+- Current streak: 4
+- Total solved: 4 (E:4 / M:0 / H:0)
 - Revisited: 0 (1 in Queue)
 
 ---
@@ -20,6 +20,7 @@
 | 2026-01-12 | 1929 | Concatenation of Array  | Easy | Python | 1 min | `AC` | `Array` | 리스트 끼리의 + 연산은 새로운 리스트를 만든다. | N |
 | 2026-01-13 | 1470 | Shuffle the Array  | Easy | Python | 1 min | `AC` | `Array` | 리스트 슬라이싱은 새로운 메모리를 메모리에 할당한다. | N |
 | 2026-01-14 | 645 | Set Mismath  | Easy | Python | 20 min | `AC` | `Array` | 더 효율적인 방법을 고안해본다. (for 문 한 번 순회) | Y |
+| 2026-01-15 | 1365 | How Many Numbers Are Smaller Than the Current Number  | Easy | Python | 20 min | `AC` | `Array` | - | N |
 |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |
 
