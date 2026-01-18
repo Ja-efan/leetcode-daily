@@ -7,8 +7,8 @@
 
 ## Stats
 - Start date: 2026-01-12
-- Current streak: 5
-- Total solved: 5 (E:5 / M:0 / H:0)
+- Current streak: 1 
+- Total solved: 6 (E:5 / M:1 / H:0)
 - Revisited: 0 (1 in Queue)
 
 ---
@@ -22,6 +22,8 @@
 | 2026-01-14 | 645 | Set Mismath  | Easy | Python | 20 min | `AC` | `Array` | 더 효율적인 방법을 고안해본다. (for 문 한 번 순회) | Y |
 | 2026-01-15 | 1365 | How Many Numbers Are Smaller Than the Current Number  | Easy | Python | 20 min | `AC` | `Array` | - | N |
 | 2026-01-16 | 448 | Find All Numbers Disappeared in an Array | Easy | Python | 5 min | `AC` | `Array` | - | N |
+| 2026-01-17 | - |  |  |  |  |  |  |  |  |
+| 2026-01-18 | 1441 | Build an Array With Stack Operations | Medium | Python | 10 min | `AC` | `Stack` | - | N |
 |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |
 
