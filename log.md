@@ -7,8 +7,8 @@
 
 ## Stats
 - Start date: 2026-01-12
-- Current streak: 1 
-- Total solved: 6 (E:5 / M:1 / H:0)
+- Current streak: 2
+- Total solved: 7 (E:5 / M:2 / H:0)
 - Revisited: 0 (1 in Queue)
 
 ---
@@ -24,6 +24,7 @@
 | 2026-01-16 | 448 | Find All Numbers Disappeared in an Array | Easy | Python | 5 min | `AC` | `Array` | - | N |
 | 2026-01-17 | - |  |  |  |  |  |  |  |  |
 | 2026-01-18 | 1441 | Build an Array With Stack Operations | Medium | Python | 10 min | `AC` | `Stack` | - | N |
+| 2026-01-19 | 150 | Evaluate Reverse Polish Notation | Medium | Python | 15 min | `AC` | `Stack` | - | N |
 |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |
 
