@@ -25,6 +25,7 @@
 | 2026-01-17 | - |  |  |  |  |  |  |  |  |
 | 2026-01-18 | 1441 | Build an Array With Stack Operations | Medium | Python | 10 min | `AC` | `Stack` | - | N |
 | 2026-01-19 | 150 | Evaluate Reverse Polish Notation | Medium | Python | 15 min | `AC` | `Stack` | - | N |
+| 2026-01-20 | 636 | Exclusive Time of Functions | Medium | Python | 30 min | `AC` | `Stack` | - | N |
 |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |
 
