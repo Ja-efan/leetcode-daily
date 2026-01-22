@@ -7,8 +7,8 @@
 
 ## Stats
 - Start date: 2026-01-12
-- Current streak: 4
-- Total solved: 9 (E:6 / M:3 / H:0)
+- Current streak: 5
+- Total solved: 10 (E:7 / M:3 / H:0)
 
 ---
 
@@ -26,6 +26,7 @@
 | 2026-01-19 | 150 | Evaluate Reverse Polish Notation | Medium | Python | 15 min | `AC` | `Stack` | - |
 | 2026-01-20 | 636 | Exclusive Time of Functions | Medium | Python | 30 min | `AC` | `Stack` | - |
 | 2026-01-21 | 1475 | Final Prices With a Special Discount in a Shop | Easy | Python | 15 min | `AC` | `Stack` | - |
+| 2026-01-22 | 1 | Two Sum | Easy | Python | 1 min | `AC` | `Brute Force` | - |
 
 **Legend**
 - Result:  
