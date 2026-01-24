@@ -16,12 +16,11 @@
 .
 ├── solutions/
 │   ├── python/
-│   │   ├── LC0001.py
+│   │   ├── LC_1.py
 │   │   └── …
 │   └── javascript/
 ├── notes/
-│   ├── patterns.md
-│   └── revisit.md
+│   └── patterns.md
 └── log.md
 ```
 
