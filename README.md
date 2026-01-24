@@ -40,7 +40,6 @@
 - Time / Space:
 - Edge cases:
 - Takeaways:
-- Revisit? (Y/N)
 
 ## 1차 목표
 - 260112 - 260131일 연속 스트릭 만들기
