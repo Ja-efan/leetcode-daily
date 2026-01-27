@@ -7,8 +7,8 @@
 
 ## Stats
 - Start date: 2026-01-12
-- Current streak: 3
-- Total solved: 13 (E:10 / M:3 / H:0)
+- Current streak: 4
+- Total solved: 14 (E:11 / M:3 / H:0)
 
 ---
 
@@ -30,6 +30,7 @@
 | 2026-01-24 | 2 | Add Two Numbers  | Med | Python | 20 min | `AC` | `pointer` | - |
 | 2026-01-25 | 9 | Palindrome Number | Easy | Python | 1 min | `AC` | `string` | - |
 | 2026-01-26 | 12 | Roman to Integer | Easy | Python | 10 min | `AC` | `hashmap` | - |
+| 2026-01-27 | 14 | Longest Common Prefix | Easy | Python | 10 min | `AC` | `Brute Force` | - |
 
 
 
