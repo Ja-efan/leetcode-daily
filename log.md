@@ -8,8 +8,8 @@
 ## Stats
 - Start date: 2026-01-12
 - Restart date: 2026-11-01 (2026-02-02 이후 공백 후 재시작)
-- Current streak: 0
-- Total solved: 16 (E:12 / M:4 / H:0)
+- Current streak: 1
+- Total solved: 17 (E:13 / M:4 / H:0)
 
 ---
 
@@ -21,7 +21,7 @@
 
 | Date | Topic | Must | Stretch | Done |
 |---|---|---|---|:---:|
-| 11/01 (일) | 재정비 + 워밍업 | 217 Contains Duplicate (E) | - | [ ] |
+| 11/01 (일) | 재정비 + 워밍업 | 217 Contains Duplicate (E) | - | [x] |
 | 11/02 (월) | HashMap | 242 Valid Anagram (E) | 49 Group Anagrams (M) | [ ] |
 | 11/03 (화) | Two Pointers | 167 Two Sum II - Input Array Is Sorted (M) | 15 3Sum (M) | [ ] |
 | 11/04 (수) | Sliding Window | 121 Best Time to Buy and Sell Stock (E) | 3 Longest Substring Without Repeating Characters (M) | [ ] |
@@ -53,6 +53,7 @@
 | 2026-01-27 | 14 | Longest Common Prefix | Easy | Python | 10 min | `AC` | `Brute Force` | - |
 | 2026-01-28 | 20 | Valid Parentheses | Easy | Python | 5 min | `AC` | `Stack` | - |
 | 2026-02-02 | 21 | Merge Two Sorted Lists | Easy | Python | 10 min | `AC` | `Linked List` | - |
+| 2026-11-01 | 217 | Contains Duplicate | Easy | Python | - | `AC` | `HashMap` `Set` | 중복 체크는 set 멤버십(O(1)), 순회하면 중복 발견 즉시 종료 가능 |
 
 
 
