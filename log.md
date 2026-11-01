@@ -7,8 +7,28 @@
 
 ## Stats
 - Start date: 2026-01-12
-- Current streak: 1
-- Total solved: 16 (E:13 / M:3 / H:0)
+- Restart date: 2026-11-01 (2026-02-02 이후 공백 후 재시작)
+- Current streak: 0
+- Total solved: 16 (E:12 / M:4 / H:0)
+
+---
+
+## Weekly Plan
+
+### Week 1 (2026-11-01 ~ 2026-11-08) · 코테 기본 패턴
+- 목표: 8일 연속 커밋 / 필수 8문제 / `notes/patterns.md` 패턴 6개 정리
+- 시간 제한: Easy 20분, Medium 40분. 넘기면 힌트·풀이 확인 후 `notes/revisit.md`에 등록
+
+| Date | Topic | Must | Stretch | Done |
+|---|---|---|---|:---:|
+| 11/01 (일) | 재정비 + 워밍업 | 217 Contains Duplicate (E) | - | [ ] |
+| 11/02 (월) | HashMap | 242 Valid Anagram (E) | 49 Group Anagrams (M) | [ ] |
+| 11/03 (화) | Two Pointers | 167 Two Sum II - Input Array Is Sorted (M) | 15 3Sum (M) | [ ] |
+| 11/04 (수) | Sliding Window | 121 Best Time to Buy and Sell Stock (E) | 3 Longest Substring Without Repeating Characters (M) | [ ] |
+| 11/05 (목) | Binary Search | 704 Binary Search (E) | 875 Koko Eating Bananas (M) | [ ] |
+| 11/06 (금) | BFS / DFS (Grid) | 200 Number of Islands (M) | 994 Rotting Oranges (M) | [ ] |
+| 11/07 (토) | Heap / Top-K | 1046 Last Stone Weight (E) | 347 Top K Frequent Elements (M) | [ ] |
+| 11/08 (일) | Review + 실전 | Revisit 645, 636 재풀이 | 739 Daily Temperatures (M, 40분 타이머) | [ ] |
 
 ---
 
@@ -18,7 +38,7 @@
 |---|---:|---|---|---|---:|---|---|---|
 | 2026-01-12 | 1929 | Concatenation of Array  | Easy | Python | 1 min | `AC` | `Array` | 리스트 끼리의 + 연산은 새로운 리스트를 만든다. | 
 | 2026-01-13 | 1470 | Shuffle the Array  | Easy | Python | 1 min | `AC` | `Array` | 리스트 슬라이싱은 새로운 메모리를 메모리에 할당한다. |
-| 2026-01-14 | 645 | Set Mismath  | Easy | Python | 20 min | `AC` | `Array` | 더 효율적인 방법을 고안해본다. (for 문 한 번 순회) |
+| 2026-01-14 | 645 | Set Mismatch | Easy | Python | 20 min | `AC` | `Array` | 더 효율적인 방법을 고안해본다. (for 문 한 번 순회) |
 | 2026-01-15 | 1365 | How Many Numbers Are Smaller Than the Current Number  | Easy | Python | 20 min | `AC` | `Array` | - |
 | 2026-01-16 | 448 | Find All Numbers Disappeared in an Array | Easy | Python | 5 min | `AC` | `Array` | - |
 | 2026-01-17 | - |  |  |  |  |  |  |  |
@@ -27,9 +47,9 @@
 | 2026-01-20 | 636 | Exclusive Time of Functions | Medium | Python | 30 min | `AC` | `Stack` | - |
 | 2026-01-21 | 1475 | Final Prices With a Special Discount in a Shop | Easy | Python | 15 min | `AC` | `Stack` | - |
 | 2026-01-22 | 1 | Two Sum | Easy | Python | 1 min | `AC` | `Brute Force` | - |
-| 2026-01-24 | 2 | Add Two Numbers  | Med | Python | 20 min | `AC` | `pointer` | - |
+| 2026-01-24 | 2 | Add Two Numbers | Medium | Python | 20 min | `AC` | `pointer` | - |
 | 2026-01-25 | 9 | Palindrome Number | Easy | Python | 1 min | `AC` | `string` | - |
-| 2026-01-26 | 12 | Roman to Integer | Easy | Python | 10 min | `AC` | `hashmap` | - |
+| 2026-01-26 | 13 | Roman to Integer | Easy | Python | 10 min | `AC` | `hashmap` | - |
 | 2026-01-27 | 14 | Longest Common Prefix | Easy | Python | 10 min | `AC` | `Brute Force` | - |
 | 2026-01-28 | 20 | Valid Parentheses | Easy | Python | 5 min | `AC` | `Stack` | - |
 | 2026-02-02 | 21 | Merge Two Sorted Lists | Easy | Python | 10 min | `AC` | `Linked List` | - |
