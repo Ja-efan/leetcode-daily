@@ -9,7 +9,7 @@
 - Start date: 2026-01-12
 - Restart date: 2026-11-01 (2026-02-02 이후 공백 후 재시작)
 - Current streak: 2
-- Total solved: 18 (E:14 / M:4 / H:0)
+- Total solved: 19 (E:14 / M:5 / H:0)
 
 ---
 
@@ -55,6 +55,7 @@
 | 2026-02-02 | 21 | Merge Two Sorted Lists | Easy | Python | 10 min | `AC` | `Linked List` | - |
 | 2026-11-01 | 217 | Contains Duplicate | Easy | Python | 5 min | `AC` | `HashMap` `Set` | 중복 체크는 set 멤버십(O(1)), 순회하면 중복 발견 즉시 종료 가능 |
 | 2026-11-02 | 242 | Valid Anagram | Easy | Python | 5 min | `AC` | `HashMap` `Sorting` | 정렬은 O(N log N), Counter 비교는 O(N). Counter == 는 키와 개수가 모두 같은지 비교 |
+| 2026-11-02 | 49 | Group Anagrams | Medium | Python | 10 min | `AC` | `HashMap` `Sorting` | 정규화한 값(정렬 문자열)을 key로 묶는다. 개수 튜플 key면 O(N*K) |
 
 
 
