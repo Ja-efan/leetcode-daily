@@ -5,15 +5,20 @@ Difficulty: Medium
 Topics: Two Pointers, Array
 
 Approach:
-- 
+- 정렬된 배열이므로 양 끝에서 시작하는 두 포인터
+- 합 > target 이면 right 를 줄이고, 합 < target 이면 left 를 올린다.
+- 반환 인덱스는 1-indexed 라서 +1
+- target 이 음수이면 부호를 뒤집고 배열을 reverse 해서 처리했다. (인덱스 변환 필요)
 
-Time / Space: O() / O()
+Time / Space: O(N) / O(1)  (음수 target 변환 시 배열 복사로 공간 O(N))
 
 Edge cases:
-- 
+- 음수 target, 음수/0 이 섞인 배열
+- 원소 2개
 
 Takeaways:
-- 
+- 두 포인터는 합을 target 과 비교만 하므로 부호와 무관하다. 음수 처리 블록은 없어도 된다.
+- 단순 버전: while l < r 에서 s == target 반환, s > target 이면 r -= 1, 아니면 l += 1
 
 Revisit? N
 """
