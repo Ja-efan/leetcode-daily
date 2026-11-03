@@ -18,7 +18,7 @@ Edge cases:
 Takeaways:
 - 정렬 후 한 값을 고정하고 두 포인터로 탐색하면 O(N^2)
 
-Revisit? N
+Revisit? Y
 """
 
 from itertools import combinations
