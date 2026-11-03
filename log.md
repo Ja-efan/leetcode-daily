@@ -9,7 +9,7 @@
 - Start date: 2026-01-12
 - Restart date: 2026-11-01 (2026-02-02 이후 공백 후 재시작)
 - Current streak: 3
-- Total solved: 20 (E:14 / M:6 / H:0)
+- Total solved: 21 (E:14 / M:7 / H:0)
 
 ---
 
@@ -57,6 +57,7 @@
 | 2026-11-02 | 242 | Valid Anagram | Easy | Python | 5 min | `AC` | `HashMap` `Sorting` | 정렬은 O(N log N), Counter 비교는 O(N). Counter == 는 키와 개수가 모두 같은지 비교 |
 | 2026-11-02 | 49 | Group Anagrams | Medium | Python | 10 min | `AC` | `HashMap` `Sorting` | 정규화한 값(정렬 문자열)을 key로 묶는다. 개수 튜플 key면 O(N*K) |
 | 2026-11-03 | 167 | Two Sum II - Input Array Is Sorted | Medium | Python | 15 min | `AC` | `Two Pointers` | 정렬된 배열에서 합 찾기는 양 끝 두 포인터로 O(N) |
+| 2026-11-03 | 15 | 3Sum | Medium | Python | 30 min | `AC` | `Two Pointers` `Sorting` | 정렬 후 한 값을 고정하고 두 포인터로 탐색하면 O(N^2) |
 
 
 
