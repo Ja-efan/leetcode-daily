@@ -56,7 +56,7 @@
 | 2026-11-01 | 217 | Contains Duplicate | Easy | Python | 5 min | `AC` | `HashMap` `Set` | 중복 체크는 set 멤버십(O(1)), 순회하면 중복 발견 즉시 종료 가능 |
 | 2026-11-02 | 242 | Valid Anagram | Easy | Python | 5 min | `AC` | `HashMap` `Sorting` | 정렬은 O(N log N), Counter 비교는 O(N). Counter == 는 키와 개수가 모두 같은지 비교 |
 | 2026-11-02 | 49 | Group Anagrams | Medium | Python | 10 min | `AC` | `HashMap` `Sorting` | 정규화한 값(정렬 문자열)을 key로 묶는다. 개수 튜플 key면 O(N*K) |
-| 2026-11-03 | 167 | Two Sum II - Input Array Is Sorted | Medium | Python | 15 min | `AC` | `Two Pointers` | 합을 target과 비교만 하므로 부호와 무관. 음수 target 변환은 불필요 |
+| 2026-11-03 | 167 | Two Sum II - Input Array Is Sorted | Medium | Python | 15 min | `AC` | `Two Pointers` | 정렬된 배열에서 합 찾기는 양 끝 두 포인터로 O(N) |
 
 
 

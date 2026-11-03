@@ -17,8 +17,7 @@ Edge cases:
 - 원소 2개
 
 Takeaways:
-- 두 포인터는 합을 target 과 비교만 하므로 부호와 무관하다. 음수 처리 블록은 없어도 된다.
-- 단순 버전: while l < r 에서 s == target 반환, s > target 이면 r -= 1, 아니면 l += 1
+- 정렬된 배열에서 합을 찾을 때는 양 끝 두 포인터로 O(N)에 탐색할 수 있다.
 
 Revisit? N
 """
