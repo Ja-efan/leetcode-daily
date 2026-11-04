@@ -8,8 +8,8 @@
 ## Stats
 - Start date: 2026-01-12
 - Restart date: 2026-11-01 (2026-02-02 이후 공백 후 재시작)
-- Current streak: 3
-- Total solved: 21 (E:14 / M:7 / H:0)
+- Current streak: 4
+- Total solved: 22 (E:15 / M:7 / H:0)
 
 ---
 
@@ -24,7 +24,7 @@
 | 11/01 (일) | 재정비 + 워밍업 | 217 Contains Duplicate (E) | - | [x] |
 | 11/02 (월) | HashMap | 242 Valid Anagram (E) | 49 Group Anagrams (M) | [x] |
 | 11/03 (화) | Two Pointers | 167 Two Sum II - Input Array Is Sorted (M) | 15 3Sum (M) | [x] |
-| 11/04 (수) | Sliding Window | 121 Best Time to Buy and Sell Stock (E) | 3 Longest Substring Without Repeating Characters (M) | [ ] |
+| 11/04 (수) | Sliding Window | 121 Best Time to Buy and Sell Stock (E) | 3 Longest Substring Without Repeating Characters (M) | [x] |
 | 11/05 (목) | Binary Search | 704 Binary Search (E) | 875 Koko Eating Bananas (M) | [ ] |
 | 11/06 (금) | BFS / DFS (Grid) | 200 Number of Islands (M) | 994 Rotting Oranges (M) | [ ] |
 | 11/07 (토) | Heap / Top-K | 1046 Last Stone Weight (E) | 347 Top K Frequent Elements (M) | [ ] |
@@ -58,6 +58,7 @@
 | 2026-11-02 | 49 | Group Anagrams | Medium | Python | 10 min | `AC` | `HashMap` `Sorting` | 정규화한 값(정렬 문자열)을 key로 묶는다. 개수 튜플 key면 O(N*K) |
 | 2026-11-03 | 167 | Two Sum II - Input Array Is Sorted | Medium | Python | 15 min | `AC` | `Two Pointers` | 정렬된 배열에서 합 찾기는 양 끝 두 포인터로 O(N) |
 | 2026-11-03 | 15 | 3Sum | Medium | Python | 30 min | `AC` | `Two Pointers` `Sorting` | 정렬 후 한 값을 고정하고 두 포인터로 탐색하면 O(N^2) |
+| 2026-11-04 | 121 | Best Time to Buy and Sell Stock | Easy | Python | 5 min | `AC` | `Array` `Sliding Window` | 최저가를 들고 한 번 순회하면 O(N) |
 
 
 
