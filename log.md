@@ -8,8 +8,8 @@
 ## Stats
 - Start date: 2026-01-12
 - Restart date: 2026-11-01 (2026-02-02 이후 공백 후 재시작)
-- Current streak: 4
-- Total solved: 22 (E:15 / M:7 / H:0)
+- Current streak: 5
+- Total solved: 24 (E:16 / M:8 / H:0)
 
 ---
 
@@ -26,7 +26,7 @@
 | 11/03 (화) | Two Pointers | 167 Two Sum II - Input Array Is Sorted (M) | 15 3Sum (M) | [x] |
 | 11/04 (수) | Sliding Window | 121 Best Time to Buy and Sell Stock (E) | 3 Longest Substring Without Repeating Characters (M) | [x] |
 | 11/05 (목) | Binary Search | 704 Binary Search (E) | 875 Koko Eating Bananas (M) | [ ] |
-| 11/06 (금) | BFS / DFS (Grid) | 200 Number of Islands (M) | 994 Rotting Oranges (M) | [ ] |
+| 11/06 (금) | BFS / DFS (Grid) | 200 Number of Islands (M) | 994 Rotting Oranges (M) | [x] |
 | 11/07 (토) | Heap / Top-K | 1046 Last Stone Weight (E) | 347 Top K Frequent Elements (M) | [ ] |
 | 11/08 (일) | Review + 실전 | Revisit 645, 636 재풀이 | 739 Daily Temperatures (M, 40분 타이머) | [ ] |
 
@@ -59,6 +59,8 @@
 | 2026-11-03 | 167 | Two Sum II - Input Array Is Sorted | Medium | Python | 15 min | `AC` | `Two Pointers` | 정렬된 배열에서 합 찾기는 양 끝 두 포인터로 O(N) |
 | 2026-11-03 | 15 | 3Sum | Medium | Python | 30 min | `AC` | `Two Pointers` `Sorting` | 정렬 후 한 값을 고정하고 두 포인터로 탐색하면 O(N^2) |
 | 2026-11-04 | 121 | Best Time to Buy and Sell Stock | Easy | Python | 5 min | `AC` | `Array` `Sliding Window` | 최저가를 들고 한 번 순회하면 O(N) |
+| 2026-11-05 | 704 | Binary Search | Easy | Python | - | `AC` | `Binary Search` | - |
+| 2026-11-06 | 200 | Number of Islands | Medium | Python | 20 min | `AC` | `BFS` `Matrix` | 탐색을 새로 시작하는 횟수가 섬의 개수 |
 
 
 
