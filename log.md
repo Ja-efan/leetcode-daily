@@ -8,8 +8,8 @@
 ## Stats
 - Start date: 2026-01-12
 - Restart date: 2026-11-01 (2026-02-02 이후 공백 후 재시작)
-- Current streak: 5
-- Total solved: 24 (E:16 / M:8 / H:0)
+- Current streak: 1
+- Total solved: 25 (E:17 / M:8 / H:0)
 
 ---
 
@@ -61,6 +61,7 @@
 | 2026-11-04 | 121 | Best Time to Buy and Sell Stock | Easy | Python | 5 min | `AC` | `Array` `Sliding Window` | 최저가를 들고 한 번 순회하면 O(N) |
 | 2026-11-05 | 704 | Binary Search | Easy | Python | - | `AC` | `Binary Search` | - |
 | 2026-11-06 | 200 | Number of Islands | Medium | Python | 20 min | `AC` | `BFS` `Matrix` | 탐색을 새로 시작하는 횟수가 섬의 개수 |
+| 2026-11-09 | 1046 | Last Stone Weight | Easy | Python | 10 min | `AC` | `Heap` | 최대 힙은 부호를 뒤집은 최소 힙으로 구현 |
 
 
 
