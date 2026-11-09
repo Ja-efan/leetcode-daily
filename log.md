@@ -62,6 +62,7 @@
 | 2026-11-05 | 704 | Binary Search | Easy | Python | - | `AC` | `Binary Search` | - |
 | 2026-11-06 | 200 | Number of Islands | Medium | Python | 20 min | `AC` | `BFS` `Matrix` | 탐색을 새로 시작하는 횟수가 섬의 개수 |
 | 2026-11-09 | 1046 | Last Stone Weight | Easy | Python | 10 min | `AC` | `Heap` | 최대 힙은 부호를 뒤집은 최소 힙으로 구현 |
+| 2026-11-09 | 1 | Two Sum (복습) | Easy | Python | 30 min | `AC` | `HashMap` | 복습: 해시맵 조회로 O(N) |
 
 
 
