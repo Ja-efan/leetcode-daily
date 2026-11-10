@@ -64,6 +64,7 @@
 | 2026-11-09 | 1046 | Last Stone Weight | Easy | Python | 10 min | `AC` | `Heap` | 최대 힙은 부호를 뒤집은 최소 힙으로 구현 |
 | 2026-11-09 | 1 | Two Sum (복습) | Easy | Python | 30 min | `AC` | `HashMap` | 복습: 해시맵 조회로 O(N) |
 | 2026-11-10 | 206 | Reverse Linked List | Easy | Python | - | `AC` | `Linked List` | 값이 아니라 next 화살표 방향을 뒤집는다 |
+| 2026-11-10 | 645 | Set Mismatch (복습) | Easy | Python | - | `AC` | `HashMap` `Set` | 복습: set 으로 중복과 누락을 각각 찾는다 |
 
 
 
