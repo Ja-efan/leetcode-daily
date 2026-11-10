@@ -8,8 +8,8 @@
 ## Stats
 - Start date: 2026-01-12
 - Restart date: 2026-11-01 (2026-02-02 이후 공백 후 재시작)
-- Current streak: 1
-- Total solved: 25 (E:17 / M:8 / H:0)
+- Current streak: 2
+- Total solved: 26 (E:18 / M:8 / H:0)
 
 ---
 
@@ -63,6 +63,7 @@
 | 2026-11-06 | 200 | Number of Islands | Medium | Python | 20 min | `AC` | `BFS` `Matrix` | 탐색을 새로 시작하는 횟수가 섬의 개수 |
 | 2026-11-09 | 1046 | Last Stone Weight | Easy | Python | 10 min | `AC` | `Heap` | 최대 힙은 부호를 뒤집은 최소 힙으로 구현 |
 | 2026-11-09 | 1 | Two Sum (복습) | Easy | Python | 30 min | `AC` | `HashMap` | 복습: 해시맵 조회로 O(N) |
+| 2026-11-10 | 206 | Reverse Linked List | Easy | Python | - | `AC` | `Linked List` | 값이 아니라 next 화살표 방향을 뒤집는다 |
 
 
 

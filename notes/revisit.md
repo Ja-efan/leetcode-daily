@@ -7,3 +7,4 @@
 | 1 | Two Sum | Easy | 이중 for문 O(N^2) 풀이만 있음. HashMap 한 번 순회 O(N) 풀이로 다시 | 2026-11-09 | 해시맵 풀이 (2회 순회), 30분, AC | 한 번 순회 풀이(찾고 나서 넣기)를 다음에 시도 |
 | 448 | Find All Numbers Disappeared in an Array | Easy | 파일에 `Revisit? Y/N`로 미정. 현재 set 사용 O(N) 공간, 추가 공간 O(1) 풀이 시도 여부 결정 | 미정 | | |
 | 15 | 3Sum | Medium | set 없이 left/right 중복 건너뛰기 방식으로 다시 풀기 | 2026-11-12 |  |  |
+| 206 | Reverse Linked List | Easy | 코드 작성이 막혀 접근 설명을 듣고 풀었음. 혼자서 다시 풀기 | 2026-11-16 | | |
