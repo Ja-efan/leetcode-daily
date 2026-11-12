@@ -8,8 +8,8 @@
 ## Stats
 - Start date: 2026-01-12
 - Restart date: 2026-11-01 (2026-02-02 이후 공백 후 재시작)
-- Current streak: 3
-- Total solved: 27 (E:18 / M:9 / H:0)
+- Current streak: 4
+- Total solved: 28 (E:19 / M:9 / H:0)
 
 ---
 
@@ -66,6 +66,7 @@
 | 2026-11-10 | 206 | Reverse Linked List | Easy | Python | - | `AC` | `Linked List` | 값이 아니라 next 화살표 방향을 뒤집는다 |
 | 2026-11-10 | 645 | Set Mismatch (복습) | Easy | Python | - | `AC` | `HashMap` `Set` | 복습: set 으로 중복과 누락을 각각 찾는다 |
 | 2026-11-11 | 155 | Min Stack | Medium | Python | 20 min | `AC` | `Stack` | 넣을 때 그 시점의 최솟값을 함께 저장하면 getMin O(1) |
+| 2026-11-12 | 104 | Maximum Depth of Binary Tree | Easy | Python | - | `AC` | `Tree` `BFS/DFS` | 스택 두 개로 층 단위 탐색하며 층 수를 센다 |
 
 
 
