@@ -8,8 +8,8 @@
 ## Stats
 - Start date: 2026-01-12
 - Restart date: 2026-11-01 (2026-02-02 이후 공백 후 재시작)
-- Current streak: 6
-- Total solved: 30 (E:20 / M:10 / H:0)
+- Current streak: 7
+- Total solved: 31 (E:21 / M:10 / H:0)
 
 ---
 
@@ -69,6 +69,7 @@
 | 2026-11-12 | 104 | Maximum Depth of Binary Tree | Easy | Python | - | `AC` | `Tree` `BFS/DFS` | 스택 두 개로 층 단위 탐색하며 층 수를 센다 |
 | 2026-11-13 | 102 | Binary Tree Level Order Traversal | Medium | Python | - | `AC` | `Tree` `BFS/DFS` | 순서를 지켜야 하면 큐(deque.popleft)로 층 단위 탐색 |
 | 2026-11-14 | 70 | Climbing Stairs | Easy | Python | 10 min | `AC` | `DP` | 점화식 s(n) = s(n-1) + s(n-2) 로 DP 테이블을 채운다 |
+| 2026-11-15 | 746 | Min Cost Climbing Stairs | Easy | Python | - | `AC` | `DP` | 점화식에 비용을 더해 최소 비용 DP 테이블을 채운다 |
 
 
 
