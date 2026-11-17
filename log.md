@@ -8,8 +8,8 @@
 ## Stats
 - Start date: 2026-01-12
 - Restart date: 2026-11-01 (2026-02-02 이후 공백 후 재시작)
-- Current streak: 8
-- Total solved: 32 (E:22 / M:10 / H:0)
+- Current streak: 9
+- Total solved: 33 (E:23 / M:10 / H:0)
 
 ---
 
@@ -71,6 +71,7 @@
 | 2026-11-14 | 70 | Climbing Stairs | Easy | Python | 10 min | `AC` | `DP` | 점화식 s(n) = s(n-1) + s(n-2) 로 DP 테이블을 채운다 |
 | 2026-11-15 | 746 | Min Cost Climbing Stairs | Easy | Python | - | `AC` | `DP` | 점화식에 비용을 더해 최소 비용 DP 테이블을 채운다 |
 | 2026-11-16 | 141 | Linked List Cycle | Easy | Python | 15 min | `AC` | `Linked List` `Two Pointers` | 속도가 다른 두 포인터로 사이클을 O(1) 공간에 찾는다 |
+| 2026-11-17 | 733 | Flood Fill | Easy | Python | 20 min | `AC` | `BFS/DFS` `Matrix` | 칠하는 것이 방문 표시를 대신한다 |
 
 
 
