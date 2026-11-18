@@ -1,5 +1,7 @@
 # LeetCode Daily
 
+![LeetCode streak](assets/readme/streak.svg)
+
 1일 1리트코드 챌린지 기록 저장소  
 목표: 하루 한 문제. 꾸준함. 기본기. 깔끔한 코드
 
