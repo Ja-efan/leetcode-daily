@@ -8,8 +8,8 @@
 ## Stats
 - Start date: 2026-01-12
 - Restart date: 2026-11-01 (2026-02-02 이후 공백 후 재시작)
-- Current streak: 9
-- Total solved: 33 (E:23 / M:10 / H:0)
+- Current streak: 10
+- Total solved: 34 (E:24 / M:10 / H:0)
 
 ---
 
@@ -72,6 +72,7 @@
 | 2026-11-15 | 746 | Min Cost Climbing Stairs | Easy | Python | - | `AC` | `DP` | 점화식에 비용을 더해 최소 비용 DP 테이블을 채운다 |
 | 2026-11-16 | 141 | Linked List Cycle | Easy | Python | 15 min | `AC` | `Linked List` `Two Pointers` | 속도가 다른 두 포인터로 사이클을 O(1) 공간에 찾는다 |
 | 2026-11-17 | 733 | Flood Fill | Easy | Python | 20 min | `AC` | `BFS/DFS` `Matrix` | 칠하는 것이 방문 표시를 대신한다 |
+| 2026-11-18 | 1971 | Find if Path Exists in Graph | Easy | Python | 10 min | `AC` | `BFS/DFS` `Graph` | 인접 리스트와 스택 DFS로 source에서 갈 수 있는 노드를 탐색한다 |
 
 
 
