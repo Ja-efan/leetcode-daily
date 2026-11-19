@@ -8,3 +8,4 @@
 | 448 | Find All Numbers Disappeared in an Array | Easy | 파일에 `Revisit? Y/N`로 미정. 현재 set 사용 O(N) 공간, 추가 공간 O(1) 풀이 시도 여부 결정 | 미정 | | |
 | 15 | 3Sum | Medium | set 없이 left/right 중복 건너뛰기 방식으로 다시 풀기 | 2026-11-18 |  |  |
 | 206 | Reverse Linked List | Easy | 코드 작성이 막혀 접근 설명을 듣고 풀었음. 혼자서 다시 풀기 | 2026-11-16 |  |  |
+| 78 | Subsets | Medium | combinations로 풀어 열거 로직(선택 후 되돌리기)을 직접 구현하지 않음. 반환에 튜플이 섞인 채 통과 | 2026-11-22 |  |  |
