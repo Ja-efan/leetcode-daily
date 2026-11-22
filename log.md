@@ -8,8 +8,8 @@
 ## Stats
 - Start date: 2026-01-12
 - Restart date: 2026-11-01 (2026-02-02 이후 공백 후 재시작)
-- Current streak: 13
-- Total solved: 37 (E:25 / M:12 / H:0)
+- Current streak: 14
+- Total solved: 38 (E:26 / M:12 / H:0)
 
 ---
 
@@ -76,6 +76,7 @@
 | 2026-11-19 | 78 | Subsets | Medium | Python | 15 min | `AC` | `Backtracking` | itertools.combinations로 크기별 조합을 만들어 모든 부분집합을 구했다 |
 | 2026-11-20 | 17 | Letter Combinations of a Phone Number | Medium | Python | 30 min | `AC` | `Backtracking` | 자리마다 후보 글자를 붙이며 재귀 호출하고, 길이가 digits 길이와 같아지면 결과에 추가한다 |
 | 2026-11-21 | 125 | Valid Palindrome | Easy | Python | 15 min | `AC` | `Two Pointers` `String` | 영숫자만 남긴 문자열을 양 끝 두 포인터로 비교한다 |
+| 2026-11-22 | 136 | Single Number | Easy | Python | 30 min | `AC` | `Array` `Bit Manipulation` | 모든 원소를 XOR로 누적해 짝을 지우고 남은 값을 반환했다 |
 
 
 
