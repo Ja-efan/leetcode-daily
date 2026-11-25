@@ -8,8 +8,8 @@
 ## Stats
 - Start date: 2026-01-12
 - Restart date: 2026-11-01 (2026-02-02 이후 공백 후 재시작)
-- Current streak: 16
-- Total solved: 40 (E:27 / M:13 / H:0)
+- Current streak: 17
+- Total solved: 41 (E:27 / M:14 / H:0)
 
 ---
 
@@ -79,6 +79,7 @@
 | 2026-11-22 | 136 | Single Number | Easy | Python | 30 min | `AC` | `Array` `Bit Manipulation` | 모든 원소를 XOR로 누적해 짝을 지우고 남은 값을 반환했다 |
 | 2026-11-23 | 543 | Diameter of Binary Tree | Easy | Python | 20 min | `AC` | `Tree` `DFS` | 높이를 반환하며 노드마다 left + right 로 지름을 갱신했다 |
 | 2026-11-24 | 56 | Merge Intervals | Medium | Python | 15 min | `AC` | `Array` `Sorting` | 시작점 기준으로 정렬한 뒤 마지막 병합 구간의 end 와 비교해 병합했다 |
+| 2026-11-25 | 33 | Search in Rotated Sorted Array | Medium | Python | 30 min | `AC` | `Binary Search` `Array` | 정렬된 쪽을 먼저 판별한 뒤 그 구간 안에 target 이 있는지로 탐색 범위를 좁혔다 |
 
 
 
