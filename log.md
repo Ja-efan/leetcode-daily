@@ -8,8 +8,8 @@
 ## Stats
 - Start date: 2026-01-12
 - Restart date: 2026-11-01 (2026-02-02 이후 공백 후 재시작)
-- Current streak: 18
-- Total solved: 42 (E:27 / M:15 / H:0)
+- Current streak: 19
+- Total solved: 43 (E:27 / M:16 / H:0)
 
 ---
 
@@ -81,6 +81,7 @@
 | 2026-11-24 | 56 | Merge Intervals | Medium | Python | 15 min | `AC` | `Array` `Sorting` | 시작점 기준으로 정렬한 뒤 마지막 병합 구간의 end 와 비교해 병합했다 |
 | 2026-11-25 | 33 | Search in Rotated Sorted Array | Medium | Python | 30 min | `AC` | `Binary Search` `Array` | 정렬된 쪽을 먼저 판별한 뒤 그 구간 안에 target 이 있는지로 탐색 범위를 좁혔다 |
 | 2026-11-26 | 322 | Coin Change | Medium | Python | 20 min | `AC` | `DP` | 마지막 동전을 고정하고 dp[i - coin] + 1 의 최솟값으로 dp 테이블을 채웠다 |
+| 2026-11-27 | 207 | Course Schedule | Medium | Python | 30 min | `AC` | `Graph` `BFS/DFS` | 선수과목 수가 0인 과목부터 들으며 후속과목의 수를 줄이고, 들은 과목 수를 전체와 비교했다 |
 
 
 
